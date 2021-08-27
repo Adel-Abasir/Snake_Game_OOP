@@ -18,7 +18,7 @@ window.requestAnimationFrame(main);
 function main (currentTime) {
     if(gameOver == true ) {
         if(confirm('Game Over, Press Ok to Restart')){
-            window.location = '/'
+            window.location = '/Snake_Game_OOP'
         }
         return;
     }
