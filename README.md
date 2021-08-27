@@ -1,1 +1,3 @@
-# Snake_Game_OOP
+# Snake Game OOP
+
+Trying to Refactor Snake Game to OOP Concepts 
